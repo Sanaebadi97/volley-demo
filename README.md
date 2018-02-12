@@ -9,8 +9,8 @@ Test For Volley Libarary and Sqlite
 
 The Data is from https://www.androidhive.info/ and I use The Photo and ... from This site.and the rate is fake...
 
-and this Gif is THe output.
+and this Gif is The output.
 
-# Turn ON The Internet in yor Device Because I did not manage Internet connection :(
+Turn ON The Internet in yor Device for Test , Because I did not manage Internet connection :(
 
 Enjoy it...
