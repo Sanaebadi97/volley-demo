@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="text_title">this is title</string>
+    <string name="text_content">this is lorem ipsum content of universe</string>
+</resources>
