@@ -20,10 +20,10 @@ This Sample For RecyclerView and Volley Library and use Picasso Library for load
 
 
 
-The Data is from [Site](https://www.androidhive.info/)and I use The Photo and ... from This site.and the rate is fake...
+The Data is from [Site](https://www.androidhive.info/) and I use The Photo and ... from This site.and the rate is fake...
 
 and this Gif is The output.
 
 Turn ON The Internet in yor Device for Test , Because I did not manage Internet connection :(
 
-Enjoy it...
+Enjoy it... :)
