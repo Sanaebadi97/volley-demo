@@ -26,4 +26,4 @@ and this Gif is The output.
 
 ***Turn ON The Internet in yor Device for Test , Because I did not manage Internet connection :(***
 
-Enjoy it... :)
+Enjoy it :)
