@@ -14,7 +14,7 @@
 
 
 
-This Sample For ```RecyclerView ```and Volley Library and use Picasso Library for loading Photo nad Save it. and use sqlite database.
+This Sample For ```RecyclerView ```and Volley Library and use Picasso Library for loading Photo nad Save it. and use ```sqlite database```.
 
 
 
