@@ -19,7 +19,7 @@ This Sample For ```RecyclerView ```and Volley Library and use Picasso Library fo
 
 
 
-The Data is from [Site](https://www.androidhive.info/) and I use The Photo and ... from This site.and the rate is fake...
+The Data is from [Site](https://www.androidhive.info/) and I use The Photo and ... from This site.and the rate is __fake__...
 
 and this Gif is The output.
 
