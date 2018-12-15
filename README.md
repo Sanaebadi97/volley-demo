@@ -21,7 +21,7 @@ This Sample For ```RecyclerView ```and Volley Library and use Picasso Library fo
 
 The Data is from [Site](https://www.androidhive.info/) and I use The Photo and ... from This site.and the rate is __fake__...
 
-and this Gif is The output.
+__and this Gif is The output.__
 
 ***Turn ON The Internet in yor Device for Test , Because I did not manage Internet connection :(***
 
